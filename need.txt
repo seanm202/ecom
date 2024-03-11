@@ -1,0 +1,12 @@
+payment gateway
+pdf challan generation
+
+categories and subcategories
+discounts and offers
+different Currencies exchange
+
+customer details -  firstName,lastName,salutation,age,email,phoneNumber,whatsApp Number for offers,address lines 1 & 2,
+
+products - name,category,subcategory,price,offers,cod,quantity
+
+retailer - > contactDetails 
